@@ -3,7 +3,7 @@
 
 intervalDelay := 50
 ; 循环次数
-n := 1000
+n := 99999999
 
 ; 快捷键重启脚本
 F2:: Reload
